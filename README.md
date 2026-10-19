@@ -5,8 +5,8 @@ Programación Web, Sección 01, Ciclo 02-2026
 
 ## Integrantes
 
-- Rubén Martinez
-- Yukio Ogawa
+- Rubén Eliseo Martínez Pérez
+- Yukio Alberto Ogawa Urquilla
 
 ## Descripción
 
